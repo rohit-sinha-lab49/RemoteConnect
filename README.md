@@ -7,8 +7,11 @@
 **Git commands to procure :**
 
 1.git -init
+
 2.git status
+
 3.git add .
+
 4.git commit -m "commit_message"
 
 **Now, we have to connect this local to some remote repo for which we will go with below set of commands :**
@@ -25,7 +28,8 @@
 
 2.git push --set-upstream origin main [Might not need this but can be used]
 
-**If issue comes such as 'Please make sure you have the correct acceess rights and the repository exists.', the go with below set of commands :**
+**If issue comes such as 'Please make sure you have the correct acceess rights and the repository exists.', 
+the go with below set of commands :**
 
 1.ssh-add -l -E md5
 
